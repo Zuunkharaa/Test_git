@@ -1,3 +1,4 @@
-print('Hi dude!')
+name = input("What's your name? ")
+print('Hi', name, 'dude!')
 print('Ok')
 print('Usу GitHub')
